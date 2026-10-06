@@ -13,7 +13,7 @@ The methods were implemented in PyTorch and evaluated on competitive environment
 
 ## Paper
 
-A pre-publication version of the paper, including the methodology, experiments, and results, is available here: [paper.pdf]
+A pre-publication version of the paper, including the methodology, experiments, and results, is available here: [`paper.pdf`](https://github.com/cron08/maddpg-proj/blob/main/paper.pdf).
 
 The repository contains experimental code from different stages of the project and is not currently structured as a standalone software package.
 
