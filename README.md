@@ -13,7 +13,7 @@ The methods were implemented in PyTorch and evaluated on competitive environment
 
 ## Paper
 
-For the clearest description of the methodology, experiments, and results, see [`paper.pdf`](paper.pdf).
+A pre-publication version of the paper, including the methodology, experiments, and results, is available here: [`paper.pdf`]
 
 The repository contains experimental code from different stages of the project and is not currently structured as a standalone software package.
 
