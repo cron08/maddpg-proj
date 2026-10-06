@@ -19,6 +19,6 @@ The repository contains experimental code from different stages of the project a
 
 ## Background
 
-This work builds on the original MADDPG framework introduced by Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, and Igor Mordatch.
+This work builds on the original MADDPG framework introduced by Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, and Igor Mordatch, with affiliations including OpenAI, UC Berkeley, and McGill University.
 
 
